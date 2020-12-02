@@ -100,7 +100,7 @@ src\
 
 1. Homepage 
 
-![homepage](https://raw.githubusercontent.com/Vedant1202/usergrouper/master/screenshots/homepage-default.png)
+![homepage](https://raw.githubusercontent.com/Vedant1202/usergrouper/master/screenshots/home-default.png)
 
 
 2. Selecting users
