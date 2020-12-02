@@ -3,7 +3,7 @@
 A [React](https://reactjs.org/) based application to sort and make user groups based on user data provided on this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/users49b8675.json).
 
 
-#### Application hosted on [https://vedant1202.github.io/BeerDB/](https://vedant1202.github.io/usergrouper/).
+#### Application hosted on [https://vedant1202.github.io/usergrouper/](https://vedant1202.github.io/usergrouper/).
 
 #### Github hosted repository at [https://github.com/Vedant1202/usergrouper](https://github.com/Vedant1202/usergrouper).
 
