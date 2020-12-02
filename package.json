@@ -2,6 +2,7 @@
   "name": "usergroup",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://vedant1202.github.io/usergroup",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -9,13 +10,20 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "antd": "^4.8.4",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prettier": "prettier --check **/*.js **/*.js",
+    "prettier:fix": "prettier --write **/*.js **/*.jsx",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +42,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.7",
+    "prettier": "^2.0.5"
   }
 }
