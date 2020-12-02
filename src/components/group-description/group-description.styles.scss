@@ -1,0 +1,71 @@
+.group-description {
+    margin: 10vh 0 8vh -30vw;
+    width: 60vw;
+    position: relative;
+    left: 50%;
+    display: flex;
+
+    .group-icon {
+        width: 15vw;
+        position: relative;
+
+        img {
+            max-width: 30vh;
+            max-height: 30vh;
+            border-radius: 12px;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100%;
+            width: 100%;
+            opacity: 0;
+            border-radius: 6px;
+            transition: .3s ease;
+            background-color: rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+        }
+
+        &:hover .overlay {
+            opacity: 1;
+        }
+
+        .add-icon {
+            color: white;
+            font-size: 100px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+    }
+
+    .group-icon-input {
+        display: none;
+    }
+
+    .group-inputs {
+        margin-left: 5vw;
+        margin-top: 3vh;
+        
+        input {
+            width: 40vw;
+            padding: 6px 10px 6px 10px;
+            margin-top: 4vh;
+            border-radius: 10px;
+            background-color: #555555;
+            border-color: #000000;
+            color: #ffffff;
+
+            &::placeholder {
+                color: #dddddd;
+            }
+        }
+    }
+}
