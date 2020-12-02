@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/usergroup/static/css/main.12706037.chunk.css",
-    "main.js": "/usergroup/static/js/main.e45073e5.chunk.js",
-    "main.js.map": "/usergroup/static/js/main.e45073e5.chunk.js.map",
-    "runtime-main.js": "/usergroup/static/js/runtime-main.cdaafeff.js",
-    "runtime-main.js.map": "/usergroup/static/js/runtime-main.cdaafeff.js.map",
-    "static/css/2.55cb37fb.chunk.css": "/usergroup/static/css/2.55cb37fb.chunk.css",
-    "static/js/2.a22cf54c.chunk.js": "/usergroup/static/js/2.a22cf54c.chunk.js",
-    "static/js/2.a22cf54c.chunk.js.map": "/usergroup/static/js/2.a22cf54c.chunk.js.map",
-    "static/js/3.4dd75d16.chunk.js": "/usergroup/static/js/3.4dd75d16.chunk.js",
-    "static/js/3.4dd75d16.chunk.js.map": "/usergroup/static/js/3.4dd75d16.chunk.js.map",
-    "index.html": "/usergroup/index.html",
-    "static/css/2.55cb37fb.chunk.css.map": "/usergroup/static/css/2.55cb37fb.chunk.css.map",
-    "static/css/main.12706037.chunk.css.map": "/usergroup/static/css/main.12706037.chunk.css.map",
-    "static/js/2.a22cf54c.chunk.js.LICENSE.txt": "/usergroup/static/js/2.a22cf54c.chunk.js.LICENSE.txt"
+    "main.css": "/usergrouper/static/css/main.12706037.chunk.css",
+    "main.js": "/usergrouper/static/js/main.ceb36908.chunk.js",
+    "main.js.map": "/usergrouper/static/js/main.ceb36908.chunk.js.map",
+    "runtime-main.js": "/usergrouper/static/js/runtime-main.34aa80da.js",
+    "runtime-main.js.map": "/usergrouper/static/js/runtime-main.34aa80da.js.map",
+    "static/css/2.55cb37fb.chunk.css": "/usergrouper/static/css/2.55cb37fb.chunk.css",
+    "static/js/2.b883611b.chunk.js": "/usergrouper/static/js/2.b883611b.chunk.js",
+    "static/js/2.b883611b.chunk.js.map": "/usergrouper/static/js/2.b883611b.chunk.js.map",
+    "static/js/3.1a6b9277.chunk.js": "/usergrouper/static/js/3.1a6b9277.chunk.js",
+    "static/js/3.1a6b9277.chunk.js.map": "/usergrouper/static/js/3.1a6b9277.chunk.js.map",
+    "index.html": "/usergrouper/index.html",
+    "static/css/2.55cb37fb.chunk.css.map": "/usergrouper/static/css/2.55cb37fb.chunk.css.map",
+    "static/css/main.12706037.chunk.css.map": "/usergrouper/static/css/main.12706037.chunk.css.map",
+    "static/js/2.b883611b.chunk.js.LICENSE.txt": "/usergrouper/static/js/2.b883611b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdaafeff.js",
+    "static/js/runtime-main.34aa80da.js",
     "static/css/2.55cb37fb.chunk.css",
-    "static/js/2.a22cf54c.chunk.js",
+    "static/js/2.b883611b.chunk.js",
     "static/css/main.12706037.chunk.css",
-    "static/js/main.e45073e5.chunk.js"
+    "static/js/main.ceb36908.chunk.js"
   ]
 }
