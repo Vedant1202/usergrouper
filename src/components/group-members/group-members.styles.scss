@@ -1,0 +1,31 @@
+.group-members {
+    text-align: center;
+
+    .sort-container {
+        margin: 8vh 0 6vh 0;
+        font-size: 18px;
+
+        span {
+            margin-right: 1vw;
+        }
+
+        select {
+            font-size: 16px;
+            padding: 6px 40px;
+            border-radius: 10px;
+            background-color: #555555 !important;
+            appearance: none;
+        }
+    }
+
+    .member-list {
+        max-width: 80vw;
+        display: flex;
+        position: relative;
+        left: 50%;
+        margin-left: -40vw;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+}
